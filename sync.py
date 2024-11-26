@@ -19,6 +19,6 @@ if __name__ == "__main__":
 
     # TODO - Change this so it has some actual CSS and other content. Maybe use jinja?
     # ! Currently outputting to an MD while I figure out a nice css and html layout. Something something probably a branch.
-    with Path("index.html").open("w") as f:
+    with Path("wall-of-shame.md").open("w") as f:
         payload = gen_payload(ban_list)
         f.write(payload)
