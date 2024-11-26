@@ -2,8 +2,8 @@
 With the rise in trolls going server to server. I made this list of IDs that I've personally banned due to various reasons listed below. If you wish to ban them then here's the steps.
 # How to use
 1. Download and install the [LobbyLifeguard](https://github.com/Vildravn/LobbyLifeguard/) mod for Webfishing
-2. Go into your mod settings
-3. Add the SteamIDs from the list into the box for users.
+2. Download LobbyLifeguard.json and place it in the configs folder (Browse local files on steam, inside GDWeave)
+3. Load the game and know they will all be permabanned
 
 And ya done! Easy as that.
 # Helping out
