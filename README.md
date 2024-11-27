@@ -8,6 +8,6 @@ And ya done! Easy as that.
 # Want to be removed?
 If you think you're on this list and shouldn't be. You can submit a pull request and detail why you were put on this list and why you should be removed.
 # Helping out
-If you have spotted people in the wild who have spammed slurs, been offensive or gone out of their way to make the lobby an unsafe space. Feel free to contact me on discord with their steamid/profile link and evidence of what they did.
+If you have spotted people in the wild who have spammed slurs, been offensive or gone out of their way to make the lobby an unsafe space. Feel free to contact me on discord (puppygirl.zone) with their steamid/profile link and evidence of what they did.
 # DISCLAIMER
 Providing this list does not mean in any way that I condone any form of witch hunt, trolling or any action other than adding them to your ban list.
