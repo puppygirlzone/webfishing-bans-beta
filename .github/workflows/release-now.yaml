@@ -1,6 +1,5 @@
-name: Update Github pages
-# TODO - Change to pushes to main, just for PR
-on: [push]
+name: Create a release
+on: [push, pull_request]
 jobs:
     update-pages:
         runs-on: ubuntu
