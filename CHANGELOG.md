@@ -11,3 +11,8 @@ All the things I change should be auto added to this file hopefully.
 ### Changed
 - Automation didn't work lmao
 - Hopefully fixed it.
+## v1.0.2
+### Changes?
+- Idfk just please work this time
+- It's 03:59
+- I beg I don't feel like decoding this issue anymore
