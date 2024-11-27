@@ -1,0 +1,3 @@
+DatePrereleaseFormat: 'yyyyMMddHHmm'
+IncrementalPrerelease: false
+VersionPrefix: 'v'
