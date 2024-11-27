@@ -12,5 +12,5 @@ runs:
         shell: bash
         run: |-
             python3 sync.py
-            cat index.html
+            cat wall-of-shame.md
     # TODO - Needs to make a commit back to main, but we need a PAT and and env for that
