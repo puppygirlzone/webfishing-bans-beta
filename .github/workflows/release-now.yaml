@@ -5,5 +5,5 @@ jobs:
     update-pages:
         runs-on: ubuntu
         steps:
-        -   name: Update GitHub pages
+        -   name: Push a release
             uses: ./.github/actions/create-release
