@@ -6,8 +6,6 @@ on:
       - main
     types:
       - closed
-      - opened
-      - reopened
       - synchronize
       - labeled
 
