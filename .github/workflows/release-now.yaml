@@ -1,16 +1,11 @@
 name: Auto-Release
 
 on:
-  push:
-    branches:
-      - feature/arignore
   pull_request_target:
     branches:
       - main
     types:
       - closed
-      - opened
-      - reopened
       - synchronize
       - labeled
 
