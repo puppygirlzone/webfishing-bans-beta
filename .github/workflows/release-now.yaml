@@ -3,7 +3,7 @@ name: Auto-Release
 on:
   push:
     branches:
-      -main
+      - feature/arignore
   pull_request_target:
     branches:
       - main
