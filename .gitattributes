@@ -1,0 +1,5 @@
+*.txt export-ignore
+docs export-ignore
+.github export-ignore
+wall-of-shame.md export-ignore
+sync.py export-ignore
